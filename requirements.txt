@@ -1,0 +1,10 @@
+opencv-python
+numpy
+scipy
+scikit-image
+scikit-learn
+python-osc
+python-dotenv
+# Si usas GPIO:
+RPi.GPIO
+gpiod
